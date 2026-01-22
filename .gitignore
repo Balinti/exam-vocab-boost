@@ -45,3 +45,6 @@ Thumbs.db
 
 # Temporary files
 tmpclaude-*
+
+.vercel
+.env*.local
