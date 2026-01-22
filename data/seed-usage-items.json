@@ -1,0 +1,152 @@
+[
+  {
+    "id": "usage-col-1",
+    "category": "collocations",
+    "type": "collocation_mcq",
+    "prompt": "The committee will _____ a decision tomorrow.",
+    "choices": ["make", "do", "have", "take"],
+    "answer": "make",
+    "explanation": "'Make a decision' is the correct collocation. We say 'make a decision', not 'do a decision'.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-col-2",
+    "category": "collocations",
+    "type": "collocation_mcq",
+    "prompt": "She gave a very _____ speech at the conference.",
+    "choices": ["strong", "powerful", "heavy", "hard"],
+    "answer": "powerful",
+    "explanation": "'Powerful speech' is the natural collocation. 'Strong' could work but 'powerful' is more idiomatic for speeches.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-col-3",
+    "category": "collocations",
+    "type": "collocation_mcq",
+    "prompt": "The government needs to _____ measures to reduce pollution.",
+    "choices": ["take", "make", "do", "give"],
+    "answer": "take",
+    "explanation": "'Take measures' is the standard collocation when talking about implementing actions or policies.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-prep-1",
+    "category": "prepositions",
+    "type": "preposition_fill",
+    "prompt": "I'm not familiar _____ this software.",
+    "choices": ["with", "to", "of", "in"],
+    "answer": "with",
+    "explanation": "'Familiar with' is the correct preposition combination. This is a fixed expression.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-prep-2",
+    "category": "prepositions",
+    "type": "preposition_fill",
+    "prompt": "The study focuses _____ the effects of social media.",
+    "choices": ["on", "in", "at", "to"],
+    "answer": "on",
+    "explanation": "'Focus on' is the correct phrasal verb. The preposition 'on' indicates the subject of attention.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-prep-3",
+    "category": "prepositions",
+    "type": "preposition_fill",
+    "prompt": "She is capable _____ handling complex tasks.",
+    "choices": ["of", "to", "for", "with"],
+    "answer": "of",
+    "explanation": "'Capable of' + gerund is the correct structure. We say 'capable of doing something'.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-reg-1",
+    "category": "register",
+    "type": "register_choice",
+    "prompt": "Choose the most formal option: 'The results were _____.'",
+    "choices": ["really good", "satisfactory", "awesome", "pretty nice"],
+    "answer": "satisfactory",
+    "explanation": "'Satisfactory' is formal and appropriate for academic/professional contexts. The other options are too informal.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-reg-2",
+    "category": "register",
+    "type": "register_choice",
+    "prompt": "Which is most appropriate for a formal essay?",
+    "choices": ["Kids these days...", "Young people today...", "Youngsters nowadays...", "The youth of today..."],
+    "answer": "Young people today...",
+    "explanation": "'Young people today' is neutral and appropriate for formal writing. 'Kids' is informal, 'youngsters' is dated.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-reg-3",
+    "category": "register",
+    "type": "register_choice",
+    "prompt": "Select the academic alternative for 'get better':",
+    "choices": ["improve", "get nicer", "become more good", "turn out better"],
+    "answer": "improve",
+    "explanation": "'Improve' is the formal, single-word alternative to the phrasal verb 'get better'.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-gram-1",
+    "category": "grammar_frames",
+    "type": "collocation_mcq",
+    "prompt": "Despite _____ hard, she failed the exam.",
+    "choices": ["studying", "to study", "studied", "study"],
+    "answer": "studying",
+    "explanation": "'Despite' is followed by a noun or gerund (-ing form). 'Despite studying' is correct.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-gram-2",
+    "category": "grammar_frames",
+    "type": "collocation_mcq",
+    "prompt": "She suggested _____ the meeting until next week.",
+    "choices": ["postponing", "to postpone", "postpone", "postponed"],
+    "answer": "postponing",
+    "explanation": "'Suggest' is followed by a gerund (verb + -ing) in this pattern. 'Suggest + -ing' or 'suggest that + subject + base verb'.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-gram-3",
+    "category": "grammar_frames",
+    "type": "collocation_mcq",
+    "prompt": "I look forward _____ from you soon.",
+    "choices": ["to hearing", "to hear", "hearing", "for hearing"],
+    "answer": "to hearing",
+    "explanation": "'Look forward to' + gerund is the correct structure. 'To' here is a preposition, not part of an infinitive.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-wf-1",
+    "category": "word_forms",
+    "type": "collocation_mcq",
+    "prompt": "The _____ of the new policy was immediate.",
+    "choices": ["effective", "effect", "effectively", "effectiveness"],
+    "answer": "effect",
+    "explanation": "After 'the' and before 'of', we need a noun. 'Effect' is the noun form.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-wf-2",
+    "category": "word_forms",
+    "type": "collocation_mcq",
+    "prompt": "The project was completed _____.",
+    "choices": ["success", "successful", "successfully", "succeed"],
+    "answer": "successfully",
+    "explanation": "We need an adverb to modify the verb 'completed'. 'Successfully' is the adverb form.",
+    "difficulty": "Intermediate"
+  },
+  {
+    "id": "usage-wf-3",
+    "category": "word_forms",
+    "type": "collocation_mcq",
+    "prompt": "There has been a _____ increase in online shopping.",
+    "choices": ["drama", "dramatic", "dramatically", "dramatize"],
+    "answer": "dramatic",
+    "explanation": "We need an adjective to modify the noun 'increase'. 'Dramatic' is the adjective form.",
+    "difficulty": "Intermediate"
+  }
+]

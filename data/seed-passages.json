@@ -1,0 +1,106 @@
+[
+  {
+    "id": "passage-1",
+    "title": "The Impact of Urbanization on Biodiversity",
+    "content": "Urbanization represents one of the most profound transformations of natural landscapes in human history. As cities expand, they encroach upon habitats that once supported diverse ecosystems. The conversion of forests, wetlands, and grasslands into concrete infrastructure has far-reaching consequences for wildlife populations.\n\nResearch conducted in major metropolitan areas reveals that urban expansion reduces species diversity by an average of 50 percent compared to surrounding rural regions. However, the relationship between urbanization and biodiversity is not entirely straightforward. Some species, known as urban adapters, have successfully colonized city environments. Pigeons, rats, and certain insect species thrive in urban settings, exploiting resources that human activity provides.\n\nThe creation of urban green spaces offers a potential solution to biodiversity loss. Parks, community gardens, and green roofs can serve as refuges for native species. Studies indicate that strategically placed green corridors connecting isolated patches of vegetation allow wildlife to move through urban landscapes more effectively. This connectivity proves crucial for maintaining genetic diversity within populations.\n\nClimate change compounds the challenges facing urban biodiversity. Rising temperatures create urban heat islands where temperatures can exceed those of surrounding areas by several degrees. These conditions favor heat-tolerant species while pushing out others. City planners must now consider both current and projected future conditions when designing urban ecosystems.",
+    "wordCount": 212,
+    "difficulty": "Intermediate",
+    "examType": "IELTS",
+    "questions": [
+      {
+        "id": "q1-p1",
+        "question": "According to the passage, what is the average reduction in species diversity in urban areas compared to rural regions?",
+        "choices": ["25 percent", "50 percent", "75 percent", "100 percent"],
+        "correctAnswer": "50 percent",
+        "explanation": "The passage states that 'urban expansion reduces species diversity by an average of 50 percent compared to surrounding rural regions.'"
+      },
+      {
+        "id": "q2-p1",
+        "question": "Which of the following is described as an 'urban adapter'?",
+        "choices": ["Deer", "Eagles", "Pigeons", "Wolves"],
+        "correctAnswer": "Pigeons",
+        "explanation": "The passage mentions 'Pigeons, rats, and certain insect species' as examples of urban adapters that 'thrive in urban settings.'"
+      },
+      {
+        "id": "q3-p1",
+        "question": "What is the primary benefit of green corridors mentioned in the passage?",
+        "choices": ["Reducing air pollution", "Lowering urban temperatures", "Allowing wildlife movement and maintaining genetic diversity", "Providing recreation areas"],
+        "correctAnswer": "Allowing wildlife movement and maintaining genetic diversity",
+        "explanation": "The passage states that green corridors 'allow wildlife to move through urban landscapes more effectively' and that 'this connectivity proves crucial for maintaining genetic diversity.'"
+      },
+      {
+        "id": "q4-p1",
+        "question": "What environmental phenomenon is described as compounding urban biodiversity challenges?",
+        "choices": ["Air pollution", "Water scarcity", "Climate change", "Noise pollution"],
+        "correctAnswer": "Climate change",
+        "explanation": "The passage explicitly states that 'Climate change compounds the challenges facing urban biodiversity.'"
+      },
+      {
+        "id": "q5-p1",
+        "question": "Urban heat islands are described as having what effect on species?",
+        "choices": ["Attracting all species equally", "Favoring heat-tolerant species", "Eliminating all wildlife", "Having no measurable effect"],
+        "correctAnswer": "Favoring heat-tolerant species",
+        "explanation": "The passage states that 'These conditions favor heat-tolerant species while pushing out others.'"
+      },
+      {
+        "id": "q6-p1",
+        "question": "Based on the passage, which of the following would most likely help preserve biodiversity in cities?",
+        "choices": ["Removing all urban animals", "Creating isolated parks with no connections", "Developing strategic green spaces with connecting corridors", "Increasing concrete infrastructure"],
+        "correctAnswer": "Developing strategic green spaces with connecting corridors",
+        "explanation": "The passage discusses how 'urban green spaces' and 'strategically placed green corridors connecting isolated patches of vegetation' help preserve biodiversity."
+      }
+    ]
+  },
+  {
+    "id": "passage-2",
+    "title": "The Psychology of Decision Fatigue",
+    "content": "Every day, humans make thousands of decisions, ranging from trivial choices about what to wear to significant determinations about career paths. Psychologists have discovered that this constant decision-making depletes a limited mental resource, leading to a phenomenon known as decision fatigue.\n\nDecision fatigue manifests in two primary ways. First, individuals may begin making impulsive choices, opting for immediate gratification rather than considering long-term consequences. Second, people often resort to decision avoidance, postponing or entirely avoiding making choices. Both responses reflect the brain's attempt to conserve depleted cognitive resources.\n\nResearch by social psychologist Roy Baumeister demonstrated that willpower and decision-making share the same energy reservoir. In experiments, participants who made numerous decisions showed reduced self-control in subsequent tasks. This finding has profound implications for understanding behavior in contexts ranging from judicial sentencing to consumer purchasing patterns.\n\nThe timing of decisions proves particularly significant. Studies of parole board decisions revealed that judges granted parole more frequently in morning sessions and immediately after breaks, when their cognitive resources were replenished. As sessions progressed without breaks, approval rates declined dramatically, suggesting that fatigued judges defaulted to the safer option of denial.\n\nStrategies exist to combat decision fatigue. Simplifying routine decisions through habits and standardization preserves mental energy for more important choices. Additionally, scheduling critical decisions for times when cognitive resources are highest can improve outcomes.",
+    "wordCount": 223,
+    "difficulty": "Advanced",
+    "examType": "TOEFL",
+    "questions": [
+      {
+        "id": "q1-p2",
+        "question": "What is decision fatigue primarily caused by?",
+        "choices": ["Physical exhaustion", "Depletion of mental resources from constant decision-making", "Lack of information", "Poor education"],
+        "correctAnswer": "Depletion of mental resources from constant decision-making",
+        "explanation": "The passage explains that 'this constant decision-making depletes a limited mental resource, leading to a phenomenon known as decision fatigue.'"
+      },
+      {
+        "id": "q2-p2",
+        "question": "According to the passage, how does decision fatigue manifest?",
+        "choices": ["Only through impulsive choices", "Only through decision avoidance", "Through both impulsive choices and decision avoidance", "Through improved decision quality"],
+        "correctAnswer": "Through both impulsive choices and decision avoidance",
+        "explanation": "The passage states that 'Decision fatigue manifests in two primary ways' - impulsive choices and decision avoidance."
+      },
+      {
+        "id": "q3-p2",
+        "question": "What did Roy Baumeister's research demonstrate?",
+        "choices": ["Decisions improve with practice", "Willpower and decision-making share the same energy reservoir", "Sleep eliminates decision fatigue", "Older adults make better decisions"],
+        "correctAnswer": "Willpower and decision-making share the same energy reservoir",
+        "explanation": "The passage states that Baumeister 'demonstrated that willpower and decision-making share the same energy reservoir.'"
+      },
+      {
+        "id": "q4-p2",
+        "question": "What pattern was observed in parole board decisions?",
+        "choices": ["Consistent approval rates throughout the day", "Higher approval rates later in the day", "Higher approval rates after breaks and in mornings", "Random approval patterns"],
+        "correctAnswer": "Higher approval rates after breaks and in mornings",
+        "explanation": "The passage notes that 'judges granted parole more frequently in morning sessions and immediately after breaks.'"
+      },
+      {
+        "id": "q5-p2",
+        "question": "What strategy does the passage suggest for combating decision fatigue?",
+        "choices": ["Making more decisions to build tolerance", "Simplifying routine decisions through habits", "Avoiding all decisions", "Taking medication"],
+        "correctAnswer": "Simplifying routine decisions through habits",
+        "explanation": "The passage recommends 'Simplifying routine decisions through habits and standardization' to preserve mental energy."
+      },
+      {
+        "id": "q6-p2",
+        "question": "Why did fatigued judges tend to deny parole more often?",
+        "choices": ["They were biased against prisoners", "Denial was the safer, easier default option", "They had more information", "Prison conditions had improved"],
+        "correctAnswer": "Denial was the safer, easier default option",
+        "explanation": "The passage explains that 'fatigued judges defaulted to the safer option of denial.'"
+      }
+    ]
+  }
+]

@@ -1,0 +1,263 @@
+[
+  {
+    "id": "bundle-collocations-1",
+    "examType": "IELTS",
+    "level": "Intermediate",
+    "headword": "research",
+    "tags": ["academic", "collocations", "nouns"],
+    "items": [
+      {
+        "id": "col-1-1",
+        "itemType": "collocation_mcq",
+        "prompt": "The scientists _____ extensive research on climate patterns.",
+        "choices": ["made", "conducted", "did", "performed"],
+        "answer": "conducted",
+        "explanation": "'Conduct research' is the standard academic collocation. While 'do research' is acceptable in informal contexts, 'conduct research' is preferred in formal/academic writing.",
+        "errorTag": "collocations"
+      },
+      {
+        "id": "col-1-2",
+        "itemType": "collocation_mcq",
+        "prompt": "Recent research _____ that exercise improves cognitive function.",
+        "choices": ["suggests", "tells", "speaks", "says"],
+        "answer": "suggests",
+        "explanation": "'Research suggests' is the appropriate collocation for presenting findings. 'Says' and 'tells' are used with people, not research.",
+        "errorTag": "collocations"
+      }
+    ]
+  },
+  {
+    "id": "bundle-collocations-2",
+    "examType": "TOEFL",
+    "level": "Advanced",
+    "headword": "impact",
+    "tags": ["academic", "collocations", "effects"],
+    "items": [
+      {
+        "id": "col-2-1",
+        "itemType": "collocation_mcq",
+        "prompt": "Technology has had a profound _____ on modern education.",
+        "choices": ["impact", "affect", "effect", "impression"],
+        "answer": "impact",
+        "explanation": "'Have an impact on' is a strong collocation. Note: 'effect' can work but 'have an impact' is more emphatic and commonly used in academic contexts.",
+        "errorTag": "collocations"
+      },
+      {
+        "id": "col-2-2",
+        "itemType": "collocation_mcq",
+        "prompt": "The new policy will _____ a significant impact on small businesses.",
+        "choices": ["have", "make", "do", "give"],
+        "answer": "have",
+        "explanation": "'Have an impact' is the standard collocation. 'Make an impact' is also correct but 'have an impact on' specifically requires 'have'.",
+        "errorTag": "collocations"
+      }
+    ]
+  },
+  {
+    "id": "bundle-prepositions-1",
+    "examType": "IELTS",
+    "level": "Intermediate",
+    "headword": "depend",
+    "tags": ["prepositions", "verbs"],
+    "items": [
+      {
+        "id": "prep-1-1",
+        "itemType": "preposition_fill",
+        "prompt": "The success of the project depends _____ effective teamwork.",
+        "choices": ["on", "in", "at", "for"],
+        "answer": "on",
+        "explanation": "'Depend on' is the correct preposition combination. This is a fixed phrasal verb.",
+        "errorTag": "prepositions"
+      },
+      {
+        "id": "prep-1-2",
+        "itemType": "preposition_fill",
+        "prompt": "Children are dependent _____ their parents for support.",
+        "choices": ["on", "of", "to", "with"],
+        "answer": "on",
+        "explanation": "'Dependent on' (adjective form) also uses the preposition 'on'. The related noun 'dependence' also takes 'on'.",
+        "errorTag": "prepositions"
+      }
+    ]
+  },
+  {
+    "id": "bundle-prepositions-2",
+    "examType": "TOEFL",
+    "level": "Advanced",
+    "headword": "consist",
+    "tags": ["prepositions", "verbs", "academic"],
+    "items": [
+      {
+        "id": "prep-2-1",
+        "itemType": "preposition_fill",
+        "prompt": "The committee consists _____ twelve members.",
+        "choices": ["of", "in", "with", "from"],
+        "answer": "of",
+        "explanation": "'Consist of' means to be made up of. Do not confuse with 'consist in' (meaning 'to have as the main feature').",
+        "errorTag": "prepositions"
+      },
+      {
+        "id": "prep-2-2",
+        "itemType": "preposition_fill",
+        "prompt": "True happiness consists _____ contentment, not wealth.",
+        "choices": ["in", "of", "with", "on"],
+        "answer": "in",
+        "explanation": "'Consist in' means 'to have as the essential feature'. This is different from 'consist of' which means 'to be composed of'.",
+        "errorTag": "prepositions"
+      }
+    ]
+  },
+  {
+    "id": "bundle-register-1",
+    "examType": "IELTS",
+    "level": "Intermediate",
+    "headword": "formal_alternatives",
+    "tags": ["register", "academic_writing"],
+    "items": [
+      {
+        "id": "reg-1-1",
+        "itemType": "register_choice",
+        "prompt": "Choose the most appropriate word for academic writing: 'The data _____ that unemployment has risen.'",
+        "choices": ["shows", "indicates", "says", "tells us"],
+        "answer": "indicates",
+        "explanation": "'Indicates' is more formal and appropriate for academic writing. 'Shows' is acceptable but less sophisticated. 'Says' and 'tells us' are too informal.",
+        "errorTag": "register"
+      },
+      {
+        "id": "reg-1-2",
+        "itemType": "register_choice",
+        "prompt": "Select the most formal alternative: 'We need to _____ this problem.'",
+        "choices": ["fix", "address", "sort out", "deal with"],
+        "answer": "address",
+        "explanation": "'Address a problem' is the most formal option. 'Fix' and 'sort out' are informal, and 'deal with' is neutral.",
+        "errorTag": "register"
+      }
+    ]
+  },
+  {
+    "id": "bundle-register-2",
+    "examType": "TOEFL",
+    "level": "Advanced",
+    "headword": "hedging_language",
+    "tags": ["register", "academic_writing", "hedging"],
+    "items": [
+      {
+        "id": "reg-2-1",
+        "itemType": "register_choice",
+        "prompt": "Which sentence uses appropriate academic hedging?",
+        "choices": ["This definitely proves our theory.", "This suggests that our hypothesis may be correct.", "This totally shows we're right.", "This proves we were right all along."],
+        "answer": "This suggests that our hypothesis may be correct.",
+        "explanation": "Academic writing typically uses hedging language ('suggests', 'may', 'could', 'appears') to acknowledge uncertainty. Absolute claims like 'definitely proves' are inappropriate.",
+        "errorTag": "register"
+      },
+      {
+        "id": "reg-2-2",
+        "itemType": "register_choice",
+        "prompt": "Choose the most academically appropriate phrase:",
+        "choices": ["Lots of people think...", "It is widely believed that...", "Everyone knows that...", "A bunch of experts say..."],
+        "answer": "It is widely believed that...",
+        "explanation": "'It is widely believed' is formal and appropriately hedged. 'Lots of' and 'a bunch of' are informal. 'Everyone knows' makes an unsupported universal claim.",
+        "errorTag": "register"
+      }
+    ]
+  },
+  {
+    "id": "bundle-grammar-1",
+    "examType": "IELTS",
+    "level": "Intermediate",
+    "headword": "relative_clauses",
+    "tags": ["grammar_frames", "clauses"],
+    "items": [
+      {
+        "id": "gram-1-1",
+        "itemType": "sentence_build",
+        "prompt": "Arrange to form a correct sentence with a relative clause:",
+        "tokens": ["The", "scientist", "who", "discovered", "the", "vaccine", "received", "an", "award"],
+        "answer": ["The", "scientist", "who", "discovered", "the", "vaccine", "received", "an", "award"],
+        "explanation": "This is a defining relative clause using 'who' for a person. The clause 'who discovered the vaccine' identifies which scientist.",
+        "errorTag": "grammar_frames"
+      }
+    ]
+  },
+  {
+    "id": "bundle-grammar-2",
+    "examType": "TOEFL",
+    "level": "Advanced",
+    "headword": "conditionals",
+    "tags": ["grammar_frames", "conditionals"],
+    "items": [
+      {
+        "id": "gram-2-1",
+        "itemType": "collocation_mcq",
+        "prompt": "If the government _____ more in education, unemployment would decrease.",
+        "choices": ["invested", "invests", "would invest", "had invested"],
+        "answer": "invested",
+        "explanation": "This is a second conditional (hypothetical present/future). The structure is: If + past simple, would + base verb.",
+        "errorTag": "grammar_frames"
+      },
+      {
+        "id": "gram-2-2",
+        "itemType": "collocation_mcq",
+        "prompt": "Had the company acted sooner, the crisis _____ averted.",
+        "choices": ["would have been", "would be", "will be", "was"],
+        "answer": "would have been",
+        "explanation": "This is a third conditional with inversion (Had = If...had). It describes an unreal past situation. Structure: Had + subject + past participle, would have + past participle.",
+        "errorTag": "grammar_frames"
+      }
+    ]
+  },
+  {
+    "id": "bundle-wordforms-1",
+    "examType": "IELTS",
+    "level": "Intermediate",
+    "headword": "economy",
+    "tags": ["word_forms", "nouns", "adjectives"],
+    "items": [
+      {
+        "id": "wf-1-1",
+        "itemType": "collocation_mcq",
+        "prompt": "The _____ growth of the country has been remarkable.",
+        "choices": ["economy", "economic", "economical", "economically"],
+        "answer": "economic",
+        "explanation": "'Economic' (adjective) means related to the economy. 'Economical' means cost-effective/thrifty. 'Economic growth' is the correct term for GDP growth.",
+        "errorTag": "word_forms"
+      },
+      {
+        "id": "wf-1-2",
+        "itemType": "collocation_mcq",
+        "prompt": "This car is very _____; it uses little fuel.",
+        "choices": ["economy", "economic", "economical", "economist"],
+        "answer": "economical",
+        "explanation": "'Economical' means efficient in terms of money or resources. 'Economic' would be incorrect here as it relates to the economy as a system.",
+        "errorTag": "word_forms"
+      }
+    ]
+  },
+  {
+    "id": "bundle-wordforms-2",
+    "examType": "TOEFL",
+    "level": "Advanced",
+    "headword": "significance",
+    "tags": ["word_forms", "academic"],
+    "items": [
+      {
+        "id": "wf-2-1",
+        "itemType": "collocation_mcq",
+        "prompt": "The results are statistically _____.",
+        "choices": ["significance", "significant", "significantly", "signify"],
+        "answer": "significant",
+        "explanation": "'Significant' (adjective) is needed after 'statistically' to describe the results. 'Statistically significant' is a common academic phrase.",
+        "errorTag": "word_forms"
+      },
+      {
+        "id": "wf-2-2",
+        "itemType": "collocation_mcq",
+        "prompt": "The temperature _____ increased over the decade.",
+        "choices": ["significance", "significant", "significantly", "signify"],
+        "answer": "significantly",
+        "explanation": "'Significantly' (adverb) modifies the verb 'increased'. Adverbs describe how an action happens.",
+        "errorTag": "word_forms"
+      }
+    ]
+  }
+]
